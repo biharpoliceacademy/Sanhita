@@ -1,1 +1,1 @@
-# majorLaw_BPA
+Sanhita App for major Laws
